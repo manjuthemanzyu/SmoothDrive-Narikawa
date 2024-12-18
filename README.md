@@ -1,16 +1,12 @@
-# SmoothDrive-Narikawa
+# SmoothDrive Narikawa
 
 SmoothDrive Narikawaは、Narikawa Technologyが開発・配布しているRoblox用の鉄道車両ベースです。
 
-# SmoothDrive Narikawa 4
+# ダウンロード
 
-SmoothDrive Narikawa 4は、2024/12/18時点での最新SmoothDrive Narikawaです。
+ダウンロードは、リリースから行えます。
 
-## 新機能
+# バージョン
 
-・HingeConstraintによる動力。
-・インスタンスの配置・名称の一部変更。
-
-# SmoothDrive Narikawa 3.5
-
-SmoothDrive Narikawa 3.5は、第3世代目のSmoothDrive Narikawaです。
+・SmoothDrive Narikawa 4
+・SmoothDrive Narikawa 3.5
