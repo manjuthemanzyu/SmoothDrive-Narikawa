@@ -4,7 +4,7 @@ SmoothDrive Narikawaは、Narikawa Technologyが開発・配布しているRoblo
 
 # ダウンロード
 
-ダウンロードは、[リリース](https://google.com)から行えます。
+ダウンロードは、[こちら](https://github.com/manjuthemanzyu/SmoothDrive-Narikawa/releases)から行えます。
 
 # バージョン
 
