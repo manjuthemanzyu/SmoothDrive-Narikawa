@@ -10,3 +10,7 @@ SmoothDrive Narikawa 4は、2024/12/18時点での最新SmoothDrive Narikawaで�
 
 ・HingeConstraintによる動力。
 ・インスタンスの配置・名称の一部変更。
+
+# SmoothDrive Narikawa 3.5
+
+SmoothDrive Narikawa 3.5は、第3世代目のSmoothDrive Narikawaです。
